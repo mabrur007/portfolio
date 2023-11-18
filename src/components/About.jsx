@@ -38,7 +38,7 @@ export default function About() {
                                 <Typography className="my-2 font-bold">
                                     Experience
                                 </Typography>
-                                <Typography className="text-xs">2+ Years Working</Typography>
+                                <Typography className="text-xs">2.5+ Years </Typography>
                             </div>
                             <div className="h-24 w-24 lg:h-36 lg:w-36 border border-orange-600 hover:border-none p-1 lg:p-4 rounded-xl flex flex-col items-center hover:bg-orange-900 hover:text-gray-300">
                                 <Typography><FcCheckmark className="text-3xl" /> </Typography>
