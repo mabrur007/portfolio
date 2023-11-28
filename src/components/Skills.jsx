@@ -155,7 +155,7 @@ const jobData = [
         id: 3,
         position: "Senior Technology Officer",
         company: "Mechanic Koi",
-        time: "May, 2021 - October, 2021"
+        time: "May, 2021 - Jun, 2022"
     },
 ]
 export default function Skills() {
